@@ -16,7 +16,7 @@ With the help of this portfolio website it helps me to display my web presence, 
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.22%20AM.png)
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.30%20AM.png)
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.37%20AM.png)
-![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.49%20AM.png)
+![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.51.16%20AM.png)
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.55%20AM.png)
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.41.02%20AM.png)
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.41.08%20AM.png)
