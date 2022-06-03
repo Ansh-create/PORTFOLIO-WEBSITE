@@ -8,7 +8,7 @@
 
  <p align="justify">Created using HTML, CSS, JAVASCRIPT, PHP and BOOTSTRAP, hosted on VERCEL App. 
   
-With the help of this portfolio website it helps me to display my web presence, skills, interests, family background, resume, projects, certificates, achievements, photoshoot skills etc. 
+With this portfolio website it helps me to display my web presence, skills, interests, family background, resume, projects, certificates, achievements, photoshoot skills etc. 
  
  In this project I tried to use <b> SMTP</b> to send emails by enabling SMTP servers in my GMAIL account.</p>
 
