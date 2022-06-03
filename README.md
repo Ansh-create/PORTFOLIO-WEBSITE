@@ -4,7 +4,7 @@
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Ansh-create/Portfolio-Website)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://anshgupta.vercel.app/)
 [![Author](https://img.shields.io/badge/Author-ANSH%20GUPTA-blue.svg)](https://www.linkedin.com/in/ansh-gupta-create/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-13%20June%202021-yellow.svg)](https://github.com/Ansh-create/Portfolio-Website)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-MAY%2022-yellow.svg)](https://github.com/Ansh-create/Portfolio-Website)
 
  <p align="justify">Created using HTML, CSS, JAVASCRIPT, PHP and BOOTSTRAP, hosted on VERCEL App. 
   
