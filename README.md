@@ -1,5 +1,5 @@
 ##                                   ANSH'S PORTFOLIO WEBSITE
-# <a href="https://people.umass.edu/avsingh" target="_blank">WELCOME TO THE ANSH - WORLD</a>
+# <a href="#" target="_blank">WELCOME TO THE ANSH - WORLD</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Ansh-create/Portfolio-Website)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://anshgupta.vercel.app/)
